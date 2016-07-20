@@ -22,3 +22,5 @@
 	
 	$teste2 = geraNumeros();
 	print_r($teste2);
+	
+	echo "Starting to use GitHub"; 
